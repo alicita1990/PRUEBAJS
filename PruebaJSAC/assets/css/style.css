@@ -1,0 +1,37 @@
+body{
+    background-color: rgb(5, 5, 5);
+}
+
+.card{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    width: 30rem;
+    justify-content: center;
+    border-style: dotted;
+    color: blanchedalmond;
+    margin-left: 450px;
+
+}
+
+.button{
+    background-color: rgb(23, 23, 217);
+    color: aliceblue;
+}
+
+.header{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+#myChart{
+    background-color: aliceblue;
+    width: 100rem;
+    margin: 10rem;
+}
+
+h1{
+    color: aliceblue;
+    font-style: italic;
+}
